@@ -69,10 +69,7 @@ nav .menu {
 
 
 @media screen and (max-width: 1160px)  {
-    body > nav {
-        display: flex;
-        justify-content:left; 
-    }
+    
     nav .menu {
         width: 70%;
         padding-left: 0;

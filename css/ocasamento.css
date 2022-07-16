@@ -1,0 +1,13 @@
+
+.mapa{
+    display: flex;
+    justify-content: center;
+}
+.mapa iframe{
+    width: 400px;
+    height: 300px;
+}
+.nomenoivos{
+    display: flex;
+    justify-content: center;
+}
