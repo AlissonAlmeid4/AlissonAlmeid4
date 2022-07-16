@@ -15,7 +15,7 @@ body{
     font-family: 'Satisfy', cursive;
     font-family: 'The Nautigal', cursive;
     color: rgb(0, 0, 0);
-    font-size: 32px;
+    font-size: 38px;
     background: rgba(255, 255, 255, 0.6);
 }
 .nomenoivos h2{
@@ -27,8 +27,13 @@ body{
     text-shadow: 4px 4px #000;
 }
 
-@media screen and (max-width: 930px)  {
-
+@media screen and (max-width: 1080px)  {
+    body{
+        background-image: url('../img/deitadosNaGrama.jfif'); 
+        background-size: 100% 100%;
+      
+        
+    }
 .screen{
     display: flex;
     justify-content: center;
@@ -39,16 +44,8 @@ h1,h2,p, div{
 }
 
 }
-@media screen and (max-width: 480px)  {
-    body{
-        background-image: url('../img/deitadosNaGrama.jfif'); 
-        background-repeat: no-repeat;
-        background-size: 420px 1080px;
-        background-position: top;
-        background-position: left;
-        background-attachment: fixed;
-        
-    }
+@media screen and (max-width: 780px)  {
+
     
 .nomenoivos{
     width: 80%;

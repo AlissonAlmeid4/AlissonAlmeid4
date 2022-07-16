@@ -1,5 +1,21 @@
-
+body{
+    background-image: url('../img/deitadosNaGrama.jfif'); 
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    background-position: top;
+    background-attachment: fixed;
+    
+}
+.nomenoivos h2{
+    font-family: 'Satisfy', cursive;
+    font-family: 'The Nautigal', cursive;
+    font-size: 82px;
+    margin-top: 3%;
+    color: rgb(255, 255, 255);
+    text-shadow: 4px 4px #000;
+}
 .mapa{
+    margin-top: 30px;
     display: flex;
     justify-content: center;
 }
@@ -10,4 +26,10 @@
 .nomenoivos{
     display: flex;
     justify-content: center;
+}
+.nomenoivos pre{
+    display: flex;
+    justify-content: left;
+    text-align: left;
+    background:  rgba(255, 255, 255, 0.6)
 }

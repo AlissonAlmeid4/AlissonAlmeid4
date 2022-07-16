@@ -10,7 +10,7 @@ body > nav {
 
 nav .menu {
     margin-top: 7px;
-    background: rgba(255, 255, 255, 0.4);
+    background: rgba(255, 255, 255, 0.5);
     width: 50%;
     display: flex;
     justify-content:space-between;
@@ -33,8 +33,9 @@ nav .menu {
 
 .menu li a {
     color: rgb(0, 0, 0);
+    font-weight: bold;
     text-decoration: none;
-    padding: 5px 10px;
+    padding: 5px 10px 5px 35px;
     display: block;
     font-size: 18px;
     
@@ -50,7 +51,7 @@ nav .menu {
     position: absolute;
     top: 30px;
     left: 0;
-    background: rgba(146, 146, 146, 0.2);
+    background: rgba(146, 146, 146, 0.7);
     display: none;
 }
 
@@ -68,28 +69,28 @@ nav .menu {
 
 
 
-@media screen and (max-width: 1160px)  {
-    
+@media screen and (max-width: 1080px)  {
+    body > nav {
+        display: flex;
+        justify-content:left; 
+    }
     nav .menu {
-        width: 70%;
         padding-left: 0;
         padding-right: 0;
     }
     .menu li a {
-        padding: 1px 10px;
+        padding: 5px 0px 5px 0px;
     }
-    .menu li ul li {
-        border: 1px solid #c0c0c0;
-        display: block;
-        width: 150px;
+    .menu li {
+        width:0px;
     }
     }
 
-@media screen and (max-width: 537px)  {
+@media screen and (max-width: 780px)  {
     body > nav {
         display: flex;
         justify-content:left; 
-        width: 590px;
+        width: 80%;
     }
     
 
