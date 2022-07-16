@@ -86,24 +86,31 @@ nav .menu {
         display: block;
         width: 150px;
     }
-    .menu li ul {
 
-        margin-top: 20px;
+    
+    }
+
+@media screen and (max-width: 537px)  {
+    nav .menu {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .menu li a {
+        font-weight: bold;
+
     }
     .menu li a:hover {
         background: #333;
         height: 35px;
     }
+    .menu li ul {
+
+        margin-top: 16px;
     }
 
-@media screen and (max-width: 630px)  {
-    nav .menu {
-        width: 100%;
-        padding-left: 0;
-        padding-right: 0;
-    }
-    .menu li a {
-        display: flex;
-        font-weight: bold;
-    }
+}
+    @media screen and (max-width: 440px)  {
+
+      
+      
     }
