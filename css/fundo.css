@@ -60,4 +60,10 @@ h1,h2,p, div{
 }
 
 }
+@media screen and (max-width: 480px)  {
 
+.nomenoivos{
+    width: 300px;
+}
+
+}

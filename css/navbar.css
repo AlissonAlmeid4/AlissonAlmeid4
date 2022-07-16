@@ -110,7 +110,7 @@ nav .menu {
 
 }
     @media screen and (max-width: 440px)  {
-
+       
         .menu li a:hover {
             background: #333;
             height: 53px;
