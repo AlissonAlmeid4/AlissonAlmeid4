@@ -60,7 +60,7 @@
         text-align: left;
     }
 }
-@media screen and (max-width: 780px)  {
+@media screen and (max-width: 480px)  {
     .mensagemCronometro{
        width: 380px;
     }
