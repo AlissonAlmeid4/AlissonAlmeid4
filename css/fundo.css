@@ -31,8 +31,9 @@ body{
     body{
         background-image: url('../img/deitadosNaGrama.jfif'); 
         background-size: 100% 100%;
-      
-        
+    }
+    .nomenoivos{
+        width: 500px;
     }
 .screen{
     display: flex;
@@ -46,9 +47,22 @@ h1,h2,p, div{
 }
 @media screen and (max-width: 780px)  {
 
-    
+    body{
+        background-image: url('../img/deitadosNaGrama.jfif'); 
+        background-size: 100% 100%;
+      
+        
+    }
+.screen{
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+h1,h2,p, div{
+    text-align: center;
+}
 .nomenoivos{
-    width: 80%;
+    width: 55%;
 }
 
 }

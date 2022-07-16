@@ -70,19 +70,17 @@ nav .menu {
 
 
 @media screen and (max-width: 1080px)  {
-    body > nav {
+    body > nav{
         display: flex;
-        justify-content:left; 
+        justify-content: center;
     }
+
     nav .menu {
+        width: 700px;
         padding-left: 0;
         padding-right: 0;
-    }
-    .menu li a {
-        padding: 5px 0px 5px 0px;
-    }
-    .menu li {
-        width:0px;
+        justify-content:space-around;
+
     }
     }
 
@@ -92,10 +90,17 @@ nav .menu {
         justify-content:left; 
         width: 80%;
     }
-    
+    nav .menu {
+        width: 400px;
+        padding-left: 0;
+        padding-right: 0;
+        justify-content:space-around;
+
+    }
 
     .menu li a {
         font-weight: bold;
+        padding: 5px 0px 5px 0px;
 
     }
     .menu li a:hover {
@@ -104,6 +109,9 @@ nav .menu {
     }
     .menu li ul {
         margin-top: 36px;
+    }
+    .menu li {
+        width: 70px;
     }
 
 }
