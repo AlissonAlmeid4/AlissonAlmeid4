@@ -34,7 +34,6 @@ body{
     color: rgb(0, 0, 0);
     font-size: 32px;
     background: rgba(255, 255, 255, 0.6);
-    width: 80%;
 }
 .nomenoivos h2{
     font-family: 'Satisfy', cursive;
@@ -63,7 +62,7 @@ h1,h2,p, div{
 @media screen and (max-width: 480px)  {
 
 .nomenoivos{
-    width: 250px;
+    width: 80%;
 }
 
 }
