@@ -34,7 +34,7 @@ body{
     color: rgb(0, 0, 0);
     font-size: 32px;
     background: rgba(255, 255, 255, 0.6);
-    
+    width: 80%;
 }
 .nomenoivos h2{
     font-family: 'Satisfy', cursive;
