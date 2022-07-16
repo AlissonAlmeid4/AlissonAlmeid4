@@ -55,26 +55,14 @@
 @media screen and (max-width: 915px)  {
     .mensagemCronometro{
         position: absolute;
-        right: 0;
+        left: 0;
         background:rgba(255, 255, 255, 0.6);
 
     }
     
     .msgECronometro{
         position: absolute;
-        right: 0;
-    }
-
-}
-@media screen and (max-width: 480px)  {
-    .msgECronometro{
-        width: 100%;
-    }
-    #cronometro{
-        width: 100%;
-    }
-    .mensagemCronometro{
-        width: 100%;
+        left: 0;
     }
 
 }
