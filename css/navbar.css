@@ -111,6 +111,12 @@ nav .menu {
 }
     @media screen and (max-width: 440px)  {
 
-      
-      
+        .menu li a:hover {
+            background: #333;
+            height: 53px;
+        }
+        .menu li ul {
+    
+            margin-top: 36px;
+        }
     }
