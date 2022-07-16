@@ -39,7 +39,7 @@ h1,h2,p, div{
 }
 
 }
-@media screen and (max-width: 550px)  {
+@media screen and (max-width: 480px)  {
     body{
         background-image: url('../img/deitadosNaGrama.jfif'); 
         background-repeat: no-repeat;
