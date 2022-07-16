@@ -92,7 +92,7 @@ nav .menu {
 
 @media screen and (max-width: 537px)  {
     nav .menu {
-        width: 100vmax;
+        width: 300px;
         padding-left: 20px;
         padding-right: 20px;
     }
