@@ -47,13 +47,16 @@ h1,h2,p, div{
 }
 @media screen and (max-width: 780px)  {
 
-    body{
-        background-image: url('../img/780.jpg'); 
-        background-size: 100% 100%;
-        background-position: top;
-        background-attachment:fixed;
-        
-    }
+body{
+    background-image: url('../img/780.jpg'); 
+    background-size: 100% 100%;
+    background-position: top;
+    background-attachment:fixed;
+    
+}
+.nomenoivos{
+    width: 400px;
+}
 .screen{
     display: flex;
     justify-content: center;
@@ -61,20 +64,17 @@ h1,h2,p, div{
 h1,h2,p, div{
     text-align: center;
 }
+
+
+}
+@media screen and (max-width: 528px)  {
+
+body{
+    background-image: url('../img/428.jpg'); 
+}
 .nomenoivos{
-    width: 90%;
+    width: 300px;
 }
-
-}
-@media screen and (max-width: 390px)  {
-
-    body{
-        background-image: url('../img/780.jpg'); 
-        background-size: 100% 100%;
-        background-position: top;
-        background-attachment:fixed;
-        
-    }
 .screen{
     display: flex;
     justify-content: center;

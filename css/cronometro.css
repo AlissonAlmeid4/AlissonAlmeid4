@@ -60,9 +60,24 @@
         text-align: left;
     }
 }
-@media screen and (max-width: 390px)  {
+@media screen and (max-width: 780px)  {
+
+    #cronometro{
+        width: 400px;
+        color: rgb(255, 255, 255);
+        text-align: left;
+    }
     .mensagemCronometro{
-       width: 380px;
+        width: 400px;
+    }
+    .msgECronometro{
+        position: absolute;
+        left: 0;
+    }
+}
+@media screen and (max-width: 528px)  {
+    .mensagemCronometro{
+       width: 300px;
     }
     .mensagemCronometro{
         position: absolute;
@@ -71,10 +86,7 @@
 
     }
     
-    .msgECronometro{
-        position: absolute;
-        left: 0;
-    }
+    
     #cronometro{
         width: 400px;
         color: rgb(255, 255, 255);
