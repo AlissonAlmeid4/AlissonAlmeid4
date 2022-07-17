@@ -85,13 +85,11 @@ nav .menu {
     }
 
 @media screen and (max-width: 780px)  {
-    body > nav{
-        justify-content: left;
-    }
+    
     nav .menu {
         padding-left: 0;
         padding-right: 0;
-        width: 400px;
+        width: 450px;
         display: flex;
         justify-content:center;
         
@@ -116,14 +114,14 @@ nav .menu {
     }
 
 }
-    @media screen and (max-width: 5280px)  {
-       
-
-       
+    @media screen and (max-width: 528px)  {
+        body > nav{
+            justify-content: left;
+        }
         nav .menu {
             padding-left: 0;
             padding-right: 0;
-            width: 340px;
+            width: 365px;
             display: flex;
             justify-content:center;
             
@@ -136,11 +134,11 @@ nav .menu {
         }
         .menu li a:hover {
             background: #333;
-            height: 40px;
+            height: 32px;
         }
         .menu li ul {
     
-            margin-top: 20px;
+            margin-top: 13px;
         }
     
     }
