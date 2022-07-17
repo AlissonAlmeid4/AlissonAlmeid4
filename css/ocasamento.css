@@ -44,6 +44,8 @@ body{
 @media screen and (max-width: 780px)  {
     body{
         background-image: url('../img/428.jpg'); 
+        background-size: 100% 100%;
+
     }
     .mapa iframe{
         width: 300px;
