@@ -10,6 +10,11 @@ body{
 .nomenoivos{
     width: 400px;
 }
+.nomenoivos h3{
+    width: 400px;
+    position: absolute;
+    bottom: 10px;
+}
 
 .nomenoivos > nav h3{
     font-family: 'Satisfy', cursive;
@@ -21,7 +26,7 @@ body{
 .nomenoivos h2{
     font-family: 'Satisfy', cursive;
     font-family: 'The Nautigal', cursive;
-    font-size: 82px;
+    font-size: 102px;
     margin-top: 3%;
     color: rgb(255, 255, 255);
     text-shadow: 4px 4px #000;
@@ -43,7 +48,10 @@ body{
 h1,h2,p, div{
     text-align: center;
 }
-
+.nomenoivos h3{
+    width: 300px;
+    position: relative;
+}
 }
 @media screen and (max-width: 780px)  {
 
@@ -55,7 +63,10 @@ body{
     
 }
 .nomenoivos{
-    width: 400px;
+    width: 600px;
+}
+.nomenoivos h3{
+    width: 600px;
 }
 .screen{
     display: flex;
