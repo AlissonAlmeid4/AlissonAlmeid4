@@ -51,7 +51,7 @@ nav .menu {
     position: absolute;
     top: 30px;
     left: 0;
-    background: rgba(146, 146, 146, 0.7);
+    background: rgba(146, 146, 146, 0.9);
     display: none;
 }
 
@@ -64,6 +64,7 @@ nav .menu {
     border: 1px solid #c0c0c0;
     display: block;
     width: 150px;
+    padding: 3px;
 }
 
 
@@ -104,10 +105,11 @@ nav .menu {
     }
     .menu li a:hover {
         background: #333;
-        height: 62px;
+        height: 42px;
     }
     .menu li ul {
-        margin-top: 36px;
+        margin-top: 20px;
+        
     }
     .menu li {
         width: 80px;
