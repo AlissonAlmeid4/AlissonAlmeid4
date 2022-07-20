@@ -29,7 +29,18 @@ body{
     font-size: 18px;
 }
 @media screen and (max-width: 1080px)  {
+    .contato{
+        display: block;
+        
+    }
+    .noivos h1{
+        font-size: 58px;
+        width: 370px;
+    }
     .suellen, .alisson{
-        display: flex;
+        display: block;
+        text-align: left;
+        padding: 15px;
+        font-size: 18px;
     }
 }
