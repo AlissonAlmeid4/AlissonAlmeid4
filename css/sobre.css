@@ -34,13 +34,13 @@ body{
         
     }
     .noivos h1{
-        font-size: 58px;
-        width: 370px;
+        font-size: 54px;
+        width: 350px;
     }
     .suellen, .alisson{
         display: block;
         text-align: left;
         padding: 15px;
-        font-size: 18px;
+        font-size: 14px;
     }
 }
