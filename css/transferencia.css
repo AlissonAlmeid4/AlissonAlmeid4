@@ -30,3 +30,9 @@
 .tranferencia h2{
     margin-top: 15px;
 }
+@media screen and (max-width: 780px)  {
+     div img{
+        width: 300px;
+    }
+
+}
