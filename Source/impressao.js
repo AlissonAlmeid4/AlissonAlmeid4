@@ -4,3 +4,8 @@ let print = () => {
     objFra.contentWindow.print();
 
 }
+let donwload = () => {
+    let objFra = document.getElementById('myFrame');
+    printw
+
+}
