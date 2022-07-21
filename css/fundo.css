@@ -11,7 +11,7 @@ iframe{
 .convite {
     text-align: center;
 }
-.convite input{
+.convite button{
     background: white;
     padding: 15px;
     background: rgba(255, 255, 255, 0.6);
@@ -19,7 +19,7 @@ iframe{
     border: none;
     border-radius: 5px;
 }
-.convite input:hover{
+.convite button:hover{
     background: rgb(206, 64, 64);
     color: #fff;
 }
