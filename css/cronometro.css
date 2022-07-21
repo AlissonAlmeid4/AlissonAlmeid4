@@ -76,7 +76,7 @@
 }
 @media screen and (max-width: 528px)  {
     .mensagemCronometro{
-       width: 365px;
+       width: 320px;
     }
     .mensagemCronometro{
         position: absolute;
@@ -87,7 +87,7 @@
     
     
     #cronometro{
-        width: 400px;
+        width: 320px;
         color: rgb(255, 255, 255);
         text-align: left;
     }
