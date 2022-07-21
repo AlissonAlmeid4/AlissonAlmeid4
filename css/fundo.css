@@ -103,7 +103,8 @@ body{
     width: 365px;
 }
 .nomenoivos h3{
-    width: 350px;
+    width: 390px;
+    padding: 5px;
 }
 .screen{
     display: flex;

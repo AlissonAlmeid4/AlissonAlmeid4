@@ -119,20 +119,20 @@ nav .menu {
     @media screen and (max-width: 528px)  {
         body > nav{
             justify-content: left;
+            margin-left: 15px;
         }
         nav .menu {
-            padding-left: 0;
+            padding-left: 10px;
             padding-right: 0;
-            width: 420px;
+            width: 390px;
             display: flex;
             justify-content:center;
-            
         }
         
     
         .menu li a {
             font-size: 14px;
-            padding-left: 15px;
+            
         }
         .menu li a:hover {
             background: #333;
