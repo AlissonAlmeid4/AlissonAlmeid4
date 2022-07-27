@@ -119,7 +119,7 @@ nav .menu {
     @media screen and (max-width: 528px)  {
         body > nav{
             justify-content: left;
-            margin-left: 15px;
+            margin-left: 0px;
         }
         nav .menu {
             padding-left: 10px;
