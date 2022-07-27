@@ -101,33 +101,33 @@
 /* Backgrounds */
 
 .bg-1 {
-  background-image: url(../fotos/CACHORROJAEGB.png)
+  background-image: url(../fotos/ABRACADOS.jpg)
 }
 
 .bg-2 {
-  background-image: url(../fotos/INDIAJAEGB.png);
+  background-image: url(../fotos/ABRACADOSQUINTAL.jpg);
 }
 
 .bg-3 {
-  background-image: url(../fotos/LEAOJAEGB.png);
+  background-image: url(../fotos/BEIJOTESTA.jpg);
 }
 
 .bg-4 {
-  background-image: url(../fotos/MICHAELJORDANJAEGB.png);
+  background-image: url(../fotos/CHAPEUSALA.jpg);
 }
 
 .bg-5 {
-  background-image: url(../fotos/MULHERJAEGB.png);
+  background-image: url(../fotos/DEITADOSGRAMA.jpg);
 }
 
 .bg-6 {
-  background-image: url(../fotos/BeckhamJAEGB.png);
+  background-image: url(../fotos/NATURAL.jpg);
 }
 
 .bg-7 {
-  background-image: url(../fotos/MESSIJAEGB.png)
+  background-image: url(../fotos/POSEGRAMA.jpg)
 }
-.bg-8 {
+/* .bg-8 {
   background-image: url(../fotos/CR7JAEGB.png);
 }
 .bg-9 {
@@ -144,7 +144,7 @@
 }
 .bg-13 {
   background-image: url(../fotos/MIRANHAJAEGB.png);
-}
+} */
 
 #seta {
   position: absolute;
