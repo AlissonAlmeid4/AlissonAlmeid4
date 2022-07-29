@@ -2,6 +2,14 @@ body{
     backdrop-filter: blur(20px);
     height: 58rem;
 }
+button{
+    background: none;
+    border: none;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    padding: 15px;
+    cursor: pointer;
+}
 .centralizartexto{
     margin-top: 20px;
     display: flex;
