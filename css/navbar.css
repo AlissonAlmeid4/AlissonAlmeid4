@@ -6,6 +6,8 @@
 body > nav {
     display: flex;
     justify-content:center; 
+    font-family: 'Cormorant SC', serif;
+
 }
 
 nav .menu {
@@ -35,7 +37,7 @@ nav .menu {
     color: rgb(0, 0, 0);
     font-weight: bold;
     text-decoration: none;
-    padding: 5px 10px 5px 35px;
+    padding: 5px 10px 5px 15px;
     display: block;
     font-size: 18px;
     

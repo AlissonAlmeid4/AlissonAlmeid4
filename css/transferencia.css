@@ -1,10 +1,13 @@
+body{
+    font-family: 'Cormorant SC', serif;
+
+}
 .tranferencia{
     display: block;
     justify-content: center;
     margin-top: 45px;
     text-align: center;
     color: rgb(255, 255, 255);
-    
 }
 .qrcode{
     display: flex;

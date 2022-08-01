@@ -4,6 +4,8 @@ body{
     background-size: 100vw 100vh;
     background-position: top;
     background-attachment: fixed;
+    font-family: 'Cormorant SC', serif;
+
 }
 iframe{
     display: none;
@@ -11,18 +13,23 @@ iframe{
 .convite {
     text-align: center;
 }
-.convite button{
+.convite #bt{
     background: white;
     padding: 15px;
     background: rgba(255, 255, 255, 0.6);
     font-weight: bold;
+    font-family: 'Cormorant SC', serif;
+    font-size: 18px;
     border: none;
     border-radius: 5px;
+    text-decoration: none;
+    color: red;
 }
-.convite button:hover{
+.convite #bt:hover{
     background: rgb(206, 64, 64);
     color: #fff;
 }
+
 .nomenoivos{
     width: 400px;
 }

@@ -2,6 +2,8 @@
 body{
     backdrop-filter: blur(10px);
     height: 58rem;
+    font-family: 'Cormorant SC', serif;
+
 }
 .contato{
     display: flex;

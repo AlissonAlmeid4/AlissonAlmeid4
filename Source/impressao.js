@@ -3,4 +3,5 @@ let print = () => {
     objFra.contentWindow.focus();
     objFra.contentWindow.print();
 
-}
+};
+

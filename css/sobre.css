@@ -1,6 +1,8 @@
 body{
     backdrop-filter: blur(10px);
     height: 58rem;
+    font-family: 'Cormorant SC', serif;
+
 }
 .centralizartexto{
     margin-top: 20px;
