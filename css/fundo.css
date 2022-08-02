@@ -116,6 +116,7 @@ body{
 .nomenoivos h3{
     width: 390px;
     padding: 5px;
+    margin-bottom: 20px; /* teste */
 }
 .screen{
     display: flex;
@@ -126,7 +127,7 @@ h1,h2,p, div{
     text-align: center;
 }
 .convite{
-    display: block;
+    display: flex;
 }
 .convite p{
     display: flex;

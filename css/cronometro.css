@@ -85,10 +85,12 @@ body{
         position: absolute;
         left: 0;
         background:rgba(255, 255, 255, 0.6);
+        margin-bottom: 20px; /* teste */
     }
     #cronometro{
         width: 345px;
         color: rgb(255, 255, 255);
         text-align: left;
+        margin-bottom: 20px; /* teste */
     }
 }
