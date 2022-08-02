@@ -16,7 +16,7 @@ iframe{
 .convite p {
    height: 60px;
 }
-.convite #bt{
+.convite #bt, .baixa{
     background: white;
     padding: 10px;
     background: rgba(255, 255, 255, 0.6);
