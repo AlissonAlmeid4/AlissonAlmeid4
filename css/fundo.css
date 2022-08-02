@@ -12,11 +12,13 @@ iframe{
 }
 .convite {
     text-align: center;
-
+}
+.convite p {
+   height: 60px;
 }
 .convite #bt{
     background: white;
-    padding: 15px;
+    padding: 10px;
     background: rgba(255, 255, 255, 0.6);
     font-weight: bold;
     font-family: 'Cormorant SC', serif;
@@ -25,6 +27,7 @@ iframe{
     border-radius: 5px;
     text-decoration: none;
     color: red;
+    cursor: pointer;
 }
 .convite #bt:hover{
     background: rgb(206, 64, 64);
@@ -123,7 +126,6 @@ h1,h2,p, div{
     text-align: center;
 }
 .convite{
-    
     display: flex;
 
 }
