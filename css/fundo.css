@@ -12,6 +12,7 @@ iframe{
 }
 .convite {
     text-align: center;
+
 }
 .convite #bt{
     background: white;
@@ -121,6 +122,25 @@ body{
 h1,h2,p, div{
     text-align: center;
 }
+.convite{
+    
+    display: flex;
 
-
+}
+.convite p{
+    display: flex;
+    margin-left: 15px;
+}
+.convite #bt{
+    width: 150px;
+    padding: 10px;
+}
+.nomenoivos{
+    width: 400px;
+}
+.nomenoivos h3{
+    width: 400px;
+    position: absolute;
+    bottom: 10px;
+}
 }
