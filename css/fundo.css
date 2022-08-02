@@ -126,8 +126,7 @@ h1,h2,p, div{
     text-align: center;
 }
 .convite{
-    display: flex;
-
+    display: block;
 }
 .convite p{
     display: flex;
