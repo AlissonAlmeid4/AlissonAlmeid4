@@ -114,7 +114,7 @@ body{
     width: 365px;
 }
 .nomenoivos h3{
-    width: 390px;
+    width: 365px;
     padding: 5px;
     margin-bottom: 20px; /* teste */
 }
@@ -137,12 +137,5 @@ h1,h2,p, div{
     width: 150px;
     padding: 10px;
 }
-.nomenoivos{
-    width: 400px;
-}
-.nomenoivos h3{
-    width: 400px;
-    position: absolute;
-    bottom: 10px;
-}
+
 }
